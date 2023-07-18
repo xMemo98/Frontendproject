@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/frontendproject/static/css/main.5f700295.css",
-    "main.js": "/frontendproject/static/js/main.148b6cfd.js",
-    "static/js/787.795e43fe.chunk.js": "/frontendproject/static/js/787.795e43fe.chunk.js",
-    "index.html": "/frontendproject/index.html",
-    "main.5f700295.css.map": "/frontendproject/static/css/main.5f700295.css.map",
-    "main.148b6cfd.js.map": "/frontendproject/static/js/main.148b6cfd.js.map",
-    "787.795e43fe.chunk.js.map": "/frontendproject/static/js/787.795e43fe.chunk.js.map"
+    "main.css": "/Frontendproject/static/css/main.a6f0f337.css",
+    "main.js": "/Frontendproject/static/js/main.19c3fc91.js",
+    "static/js/787.795e43fe.chunk.js": "/Frontendproject/static/js/787.795e43fe.chunk.js",
+    "index.html": "/Frontendproject/index.html",
+    "main.a6f0f337.css.map": "/Frontendproject/static/css/main.a6f0f337.css.map",
+    "main.19c3fc91.js.map": "/Frontendproject/static/js/main.19c3fc91.js.map",
+    "787.795e43fe.chunk.js.map": "/Frontendproject/static/js/787.795e43fe.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5f700295.css",
-    "static/js/main.148b6cfd.js"
+    "static/css/main.a6f0f337.css",
+    "static/js/main.19c3fc91.js"
   ]
 }
